@@ -12,6 +12,39 @@ My first assignment has two parts.
 
 ## (a)
 
+## **Question:**
+
+Explain the main stages of the Data Science process and state why the Exploratory Data Analysis (EDA) step is important in this process.
+
+**Answer:**\
+The data science process generally consists of the following main stages:
+
+1.  **Problem Definition** – Clearly defining the problem that needs to be solved.
+
+2.  **Data Collection and Preparation** – Gathering data from different sources and cleaning it to make it suitable for analysis.
+
+3.  **Exploratory Data Analysis (EDA)** – Performing visualization and statistical analysis to understand the structure of the data.
+
+4.  **Model and Algorithm Development** – Building machine learning or statistical models to make predictions or support decision-making.
+
+5.  **Model Evaluation** – Testing the model’s performance using various evaluation metrics.
+
+6.  **Deployment** – Implementing the model in a real system and monitoring its results.
+
+**Importance of EDA:**\
+EDA helps identify trends, outliers, and data distributions within the dataset. This analysis helps determine which model should be used and allows early detection of incorrect data or anomalies.
+
+## **Question:**
+
+Which of the following is a common but incorrect belief about data science?
+
+A\) Data science consists only of statistics.\
+B) Data science combines multiple disciplines.\
+C) Data science can also be applied to small datasets.\
+D) Data science can support decision-making processes.
+
+**Correct Answer:** **A**
+
 ## (b)
 
 ```{r}
