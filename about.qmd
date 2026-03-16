@@ -3,28 +3,37 @@ title: "About Me"
 sidebar: false 
 ---
 
-# Education
+# Ali Eren Doğramacı
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+I am an Industrial Engineering student at Hacettepe University. \
+I am interested in data analytics, optimization, and decision-making systems. \
+Through this website, I will share my work for the EMU430 Data Analytics course.
 
-# Work Experience
+\## Education\
+\
+Hacettepe University \
+Industrial Engineering (Bachelor's Degree)
 
-## Employements
+\## Internships\
+\
+Meteksan Matbaacılık – Management Intern\
+2025 Summer
 
-1.  Firm xxx, position xx, year xxx
+\## Projects\
+\
+- VRP optimization for graduating project\
+- Data analytics assignments for EMU430 course
 
-2.  Firm yyy, position yyy, year yyy
+\## Competencies\
+\
+- R\
+- Quarto\
+- Git & GitHub\
+- Python (basic)\
+- Data Analysis
 
-## Internships
-
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
-
-# Competencies
-
-R, Quarto, Git, Python
-
-# Hobbies
+\## Hobbies\
+\
+- Game development\
+- Strategy games\
+- Technology and programming
