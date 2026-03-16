@@ -5,13 +5,13 @@ sidebar: false
 
 # Ali Eren Doğramacı
 
-I am an Industrial Engineering student at Hacettepe University. \
-I am interested in data analytics, optimization, and decision-making systems. \
+I am an Industrial Engineering student at Hacettepe University.\
+I am interested in data analytics, optimization, and decision-making systems.\
 Through this website, I will share my work for the EMU430 Data Analytics course.
 
 \## Education\
 \
-Hacettepe University \
+Hacettepe University\
 Industrial Engineering (Bachelor's Degree)
 
 \## Internships\
